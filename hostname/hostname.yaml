@@ -1,0 +1,4 @@
+---
+ - hosts: bobo
+   tasks:
+    - command: hostname

@@ -1,0 +1,7 @@
+---
+- name: StartUP
+  hosts: nginx
+
+  tasks:
+  - name: Test Connectivity
+    ping: 
