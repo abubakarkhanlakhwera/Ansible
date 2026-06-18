@@ -1,36 +1,28 @@
-# Ansible
+# Ansible Automation Practice
 
-Ansible practice repository for automation, configuration management, and DevOps workflows.
+Infrastructure automation practice with Ansible playbooks and host configuration examples.
 
-## Overview
+## Purpose
 
-This is a DevOps and infrastructure practice repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Manual server setup is repetitive and error-prone. This repository is for practicing how Ansible can make configuration repeatable, reviewable, and easier to apply across environments.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Ansible inventory and host practice
+- Configuration-management fundamentals
+- DevOps automation learning
 
-## Tech Stack
+## Stack
 
-- Primary language: Not detected by GitHub yet
-- Topics: ansible, automation, devops
-
-## Repository Structure
-
-- Top-level folders: .vscode, Day01, hostname
-- Top-level files: No top-level files detected.
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Ansible
+- YAML
+- Linux/DevOps
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add example playbook commands
+- Document expected host setup
+- Add before/after examples for each task
 
 ## Author
 
